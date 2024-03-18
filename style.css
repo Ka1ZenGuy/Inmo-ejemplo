@@ -1,0 +1,20 @@
+header {
+    background-color:#7e5d01ab ;
+}
+
+#navbarNav {
+    display: flex;
+    justify-content: space-between;
+    background-color:#7e5d01ab ;
+}
+
+
+footer {
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: #7e5d01bd;
+    font-family: "Anton", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
